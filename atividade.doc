@@ -104,3 +104,26 @@ Desvantagens do C#
 12 - Kotlin
 13 - R
 14 - MATLAB
+
+Conceito:
+MATLAB (Matrix Laboratory) é uma linguagem de programação e ambiente de desenvolvimento integrado (IDE) voltado principalmente para computação numérica, análise de dados, desenvolvimento de algoritmos e modelagem matemática. Foi criada para facilitar o processamento de matrizes e operações numéricas complexas, sendo amplamente utilizada em áreas como engenharia, física, economia, e ciência de dados, entre outras. MATLAB é uma linguagem de alto nível, de propósito geral, que combina funcionalidades de cálculo numérico, visualização de dados, e programação
+
+Para que serve: 
+Análise Numérica: Resolving problemas matemáticos envolvendo álgebra linear, cálculo numérico, otimização, estatísticas, etc.
+Desenvolvimento de Algoritmos: Permite criar, testar e otimizar algoritmos de maneira eficiente.
+Simulação e Modelagem: Usado para simular sistemas dinâmicos, circuitos, e modelos matemáticos de diversas áreas.
+Processamento de Sinais e Imagens: Ferramentas específicas para o processamento de sinais (audio, vídeo, etc.), além de processamento de imagens.
+Visualização de Dados: O MATLAB oferece gráficos 2D e 3D para visualização e interpretação de dados, o que é essencial em diversas áreas de pesquisa e engenharia.
+Interface com Hardware: É possível integrar o MATLAB com dispositivos de hardware, como sensores e atuadores, através de suas ferramentas específicas para automação e controle.
+
+Vantagens:
+Facilidade de uso: Sintaxe intuitiva e alto nível.
+Bibliotecas poderosas: Funcionalidades avançadas para cálculo numérico e simulação.
+Boa visualização de dados: Gráficos 2D/3D e recursos interativos.
+Integração com outras linguagens: Suporta C, C++, Java, Python, entre outras.
+
+Desvantagens: 
+Custo elevado: Licença paga.
+Desempenho limitado: Menos eficiente que C/C++ em tarefas de alta performance.
+Dependência de software proprietário: Restrições relacionadas a atualizações e flexibilidade.
+ 
