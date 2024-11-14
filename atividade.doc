@@ -21,6 +21,33 @@ Desvantagens -Desempenho Relativo, Overhead de Memória, Dependência de Terceir
 8 - PHP
 9 - Swift
 10 - Ruby
+<=> CONCEITO <=>
+    Ruby é uma linguagem de programação multiplataforma, de código aberto e multiparadigma, utilizada para criar softwares e funcionalidades no desenvolvimento web. Ela se destaca pela sua facilidade de entendimento e aplicação, sendo uma das linguagens mais recomendadas para quem está começando a aprender programação. 
+
+<=> PARA QUE SERVE <=>
+
+ Ruby pode ser usado para diversas finalidades, como:
+
+    1. Desenvolvimento Web: Ruby é mais famoso pelo framework Ruby on Rails, que é amplamente utilizado para o desenvolvimento de aplicações web. Rails acelera a criação de aplicativos, oferecendo convenções que tornam o desenvolvimento mais rápido e organizado.
+
+    2. Automação e Scripts: Ruby é muito útil para escrever scripts e automações, devido à sua sintaxe limpa e à facilidade de trabalhar com arquivos, redes e sistemas operacionais.
+
+    3. Desenvolvimento de Software: Embora seja mais conhecida no desenvolvimento web, Ruby também pode ser usada em outras áreas como desktop, aplicativos de rede e até para criação de jogos.
+    
+    4. Testes de Software: Ruby tem suporte amplo a ferramentas de teste, como o framework RSpec, que facilita o desenvolvimento orientado a testes (TDD).
+
+<=> VANTAGENS E DESVATAGENS <=>
+    Vantagens de Ruby
+        Sintaxe Simples
+        Alta Produtividade
+        Orientação a Objetos
+        Comunidade Ativa
+        Flexibilidade
+    Desvantagens de Ruby
+        Desempenho
+        Curva de Aprendizado
+        Escalabilidade
+        Menor Popularidade
 11 - Go
 12 - Kotlin
 13 - R
