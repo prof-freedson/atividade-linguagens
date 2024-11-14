@@ -7,7 +7,11 @@ OBJETIVO: citar informações sobre as linguagens sorteadas para cada membro da 
 
 Para cada linguagem, deve ser informados os seguintes itens: conceito, para que serve, vantagens e desvantagens.
 
-1 - Python
+1 - Python(Matheus Lemos)
+Conceito -Python é uma linguagem de programação de alto nível,[10] interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Foi lançada por Guido van Rossum em 1991
+Para que serve -A linguagem foi projetada com a filosofia de enfatizar a importância do esforço do programador sobre o esforço computacional. Prioriza a legibilidade do código sobre a velocidade ou expressividade. Combina uma sintaxe concisa e clara com os recursos poderosos de sua biblioteca padrão e por módulos e frameworks desenvolvidos por terceiros.
+Vantagens -Sintaxe Simples e Legível, Ampla Gama de Frameworks, Rica Biblioteca Padrão e Comunidade Ativa.
+Desvantagens -Desempenho Relativo, Overhead de Memória, Dependência de Terceiros e Curva de Aprendizado Inicial
 2 - JavaScript
 3 - Java
 4 - C#
