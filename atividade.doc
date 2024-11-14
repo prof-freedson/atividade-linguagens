@@ -12,54 +12,64 @@ Conceito -Python é uma linguagem de programação de alto nível,[10] interpret
 Para que serve -A linguagem foi projetada com a filosofia de enfatizar a importância do esforço do programador sobre o esforço computacional. Prioriza a legibilidade do código sobre a velocidade ou expressividade. Combina uma sintaxe concisa e clara com os recursos poderosos de sua biblioteca padrão e por módulos e frameworks desenvolvidos por terceiros.
 Vantagens -Sintaxe Simples e Legível, Ampla Gama de Frameworks, Rica Biblioteca Padrão e Comunidade Ativa.
 Desvantagens -Desempenho Relativo, Overhead de Memória, Dependência de Terceiros e Curva de Aprendizado Inicial
-2 - JavaScript
+2 - JavaScript(Dayane)
+Conceito -JavaScript é uma linguagem de programação usada principalmente para adicionar interatividade e funcionalidades dinâmicas a sites e aplicativos web
+Para que serve - Permite que os desenvolvedores criem elementos como animações, validações de formulário, atualização de conteúdo sem recarregar a página, e muito mais, tornando a experiência do usuário mais rica e interativa.
+Vantagens -Torna sites dinâmicos e interativos, executa diretamente no navegador do usuário, sem depender de servidor, amplamente utilizado, com grande comunidade e várias bibliotecas e frameworks, funciona tanto no front-end quanto no back-end, com Node.js
+Desvantagens -Por rodar no cliente, pode ser vulnerável a ataques se mal utilizado; Diferenças de comportamento entre navegadores; Pode ser mais lento em operações complexas comparado a outras linguagens otimizadas para processamento.
 3 - Java
 4 - C#
+5 – C
+Conceito: A linguagem C é chamada de linguagem nível intermediária, pois combina os elementos das linguagens de alto nível com o funcionalismo da linguagem nível máquina.
+Para que ser: Com a linguagem C é possível ter controle exato de como um programa se comporta e dá acesso direto à partes do hardware, como o espaço na memória do computador.
+Vantagens: nos permite chegar mais perto do hardware do computador sem mexer com a linguagem Assembly (uma linguagem de baixo nível, voltada apenas à comunicação com a máquina).
+Desvantagens: Em geral, as rotinas geradas (em linguagem de máquina) são mais genéricas e, portanto, mais complexas e por isso são mais lentas e ocupam mais memória.
 
-Conteito: 
 
-*A linguagem C# (lê-se “cêsharp”) foi criada juntamente com a arquitetura da plataforma .NET da Microsoft. Construída do zero, 
-sem se preocupar com compatibilidade de código legado, e a maioria das classes do framework .NET foram escritas com essa linguagem. Vários desenvolvedores
- participaram do projeto de criação da linguagem, mas o principal envolvido no projeto foi o engenheiro Anders Hejlsberg, que além do C# foi criador do Turbo Pascal e do Delphi.
+    --Conteito--
 
-O nome C# fez com que muitas pessoas pensassem que a cerquilha (#) seria uma sobreposição de quatro símbolos de adição, dando assim a entender que poderia ser um C++++, 
-mas na verdade o símbolo # se refere ao sinal musical de sustenido (#), que indica meio tom acima de uma determinada nota musical. Possui uma sintaxe expressiva, elegante 
-e é totalmente orientada a objetos.
+    *A linguagem C# (lê-se “cêsharp”) foi criada juntamente com a arquitetura da plataforma .NET da Microsoft. Construída do zero, 
+    sem se preocupar com compatibilidade de código legado, e a maioria das classes do framework .NET foram escritas com essa linguagem. Vários desenvolvedores
+    participaram do projeto de criação da linguagem, mas o principal envolvido no projeto foi o engenheiro Anders Hejlsberg, que além do C# foi criador do Turbo Pascal e do Delphi.
 
-*Para que serve:
+    O nome C# fez com que muitas pessoas pensassem que a cerquilha (#) seria uma sobreposição de quatro símbolos de adição, dando assim a entender que poderia ser um C++++, 
+    mas na verdade o símbolo # se refere ao sinal musical de sustenido (#), que indica meio tom acima de uma determinada nota musical. Possui uma sintaxe expressiva, elegante 
+    e é totalmente orientada a objetos.
 
-A linguagem C# é usada para desenvolver aplicações de diversos tipos, como:
+    *Para que serve:
 
--Aplicativos para computadores
--Aplicativos e serviços da web
--Aplicativos da Microsoft
--Jogos
--Sistemas web
--Aplicativos embarcados
--Aplicativos de área de trabalho
--Aplicativos mobile
+    A linguagem C# é usada para desenvolver aplicações de diversos tipos, como:
 
-*A linguagem C# tem várias vantagens e desvantagens, incluindo: 
+    -Aplicativos para computadores
+    -Aplicativos e serviços da web
+    -Aplicativos da Microsoft
+    -Jogos
+    -Sistemas web
+    -Aplicativos embarcados
+    -Aplicativos de área de trabalho
+    -Aplicativos mobile
 
-Vantagens:
+    *A linguagem C# tem várias vantagens e desvantagens, incluindo: 
 
-Orientação a objetos: O C# permite a criação de classes, objetos e interfaces, além de aplicar conceitos como herança, polimorfismo e encapsulamento. 
+    Vantagens:
 
-Segurança de tipos: O C# é fortemente tipado. 
+    Orientação a objetos: O C# permite a criação de classes, objetos e interfaces, além de aplicar conceitos como herança, polimorfismo e encapsulamento. 
 
-Exceções: Os aplicativos C# usam exceções para relatar e tratar erros. 
+    Segurança de tipos: O C# é fortemente tipado. 
 
-Maturidade: O C# é considerado uma linguagem madura, ou seja, que já passou por vários testes e validações de programadores de todo o mundo.
+    Exceções: Os aplicativos C# usam exceções para relatar e tratar erros. 
 
-Usos: A C# é usada para o desenvolvimento de aplicativos da Web, desenvolvimento de jogos, aplicativos de fluxo de trabalho e serviços do Windows. 
+    Maturidade: O C# é considerado uma linguagem madura, ou seja, que já passou por vários testes e validações de programadores de todo o mundo.
 
-Desvantagens:
+    Usos: A C# é usada para o desenvolvimento de aplicativos da Web, desenvolvimento de jogos, aplicativos de fluxo de trabalho e serviços do Windows. 
 
-Desvantagens do C#
+    Desvantagens:
 
--Ambiente de desenvolvimento caro: Embora C# seja uma linguagem gratuita, o ambiente de desenvolvimento oficial da Microsoft, o Visual Studio, pode ser bastante caro.
+    Desvantagens do C#
 
--Menor portabilidade: Como C# é uma linguagem da Microsoft, sua portabilidade para outras plataformas pode ser limitada.
+    -Ambiente de desenvolvimento caro: Embora C# seja uma linguagem gratuita, o ambiente de desenvolvimento oficial da Microsoft, o Visual Studio, pode ser bastante caro.
+
+    -Menor portabilidade: Como C# é uma linguagem da Microsoft, sua portabilidade para outras plataformas pode ser limitada.
 
 5 - C
 6 - C++
@@ -95,6 +105,24 @@ Maior uso de memória: O typescript requer mais memória do que o javascript dev
 sobre tipos de variáveis. Isso pode ser um problema em projetos com limitações de memória.
 
 8 - PHP
+CONCEITOS: é uma linguagem de programação de codígo aberto, direcionada ao desenvolvimento de aplicações para web e criação de site,
+no qual favorece a conexão entre a interface do usuário e o servidor. 
+
+Para que serve: O PHP é uma linguagem de programação usada principalmente para desenvolver sites e aplicações web dinâmicas. Ela permite gerar conteúdo dinâmico, interagir com bancos de dados, processar formulários, gerenciar sessões e cookies, e integrar com outros serviços. É amplamente usada em plataformas como WordPress, Drupal e Joomla, e continua popular devido à sua simplicidade e flexibilidade no desenvolvimento de sistemas web.
+
+Vantagens e Desvantagens: Vantagens
+O PHP é muito versátil e funciona em qualquer plataforma, rodando em diversos sistemas operacionais;
+Aprendizado facíl apos entender o que é o PHP e sua função;
+O PHP é uma linguagem de codígo aberto e com melhrorias constantes
+É compativel com diversos bancos de dados: Sybase, Interbase, Oracle, SQLite, MySQL;
+Multiplataforma, funcionaem varios sistemas operacionais sendo eles: Windows e Linux, além dos Mac OS, AS/400, Risc OS, FreeBSD, entre outros. 
+
+Desvantagens
+Suporte a Datas; 
+Documentação incompleta, Os documentos demoram para serem adicionados no site oficial, as novas funções são feitas e depois divulgadas;
+Não há uma padronização entre as suas versões, nem todos os comandos funcionam da mesma forma;
+A falta de aplicativos de servidor para PHP é algo que desaponta, por isso alguns preferem utilizar o Java.
+
 9 - Swift
 10 - Ruby
 <=> CONCEITO <=>
@@ -125,7 +153,72 @@ sobre tipos de variáveis. Isso pode ser um problema em projetos com limitaçõe
         Escalabilidade
         Menor Popularidade
 11 - Go
+Conceito:
+
+A linguagem de programação Go, também conhecida como Golang, é uma linguagem de código aberto desenvolvida pelo google lançada em novembro de 2009.É uma linguagem compilada e focada em produtividade e programação concorrente, baseada em trabalhos feitos no sistema operacional chamado Inferno.
+
+Para que serve:
+
+A linguagem Go é utilizada para desenvolver sistemas distribuídos e concorrentes, como servidores web, aplicações em nuvem, microsserviços, ferramentas de linha de comando, e programas de rede.
+
+Vantagens:
+
+Go é muito eficaz na detecção de falhas de pré-compilação e até mesmo na prevenção de possíveis "desperdícios", tais como variáveis ou importações não utilizadas. Não há necessidade de usar as VMs.
+
+Desvantagens:
+
+Curva de aprendizado: Pode ser difícil para iniciantes, principalmente para quem não tem experiência com outras linguagens. 
+Ecossistema: Como é uma linguagem relativamente nova, pode ser difícil encontrar bibliotecas e ferramentas para algumas tarefas. 
+Gerenciamento de memória: O sistema de gerenciamento de memória automático pode causar problemas de desempenho em algumas situações. 
+Não é indicada para desenvolvimento orientado a objetos: Não existe o conceito de classes, nem herança, nem try/catch. 
+Menos adequada para projetos complicados: A falta de recursos pode torná-la menos adequada para projetos que exigem escalabilidade e flexibilidade. 
+
 12 - Kotlin
+
+Conceito: 
+
+Kotlin é uma linguagem de programação moderna, desenvolvida pela JetBrains, que combina características de orientação a objetos e programação funcional. Ela foi criada para interoperar totalmente com o Java, tornando-se uma opção popular para o desenvolvimento Android, onde foi oficializada como linguagem de primeira classe pelo Google em 2017. 
+
+Para que serve?
+ 
+É usada para desenvolvimento Android, back-end, desenvolvimento de aplicações desktop e, mais recentemente, até mesmo para front-end web com Kotlin/JS, tornando-se uma linguagem versátil e poderosa no ecossistema de desenvolvimento moderno. 
+
+Vantagens:
+
+    1. Kotlin reduz a quantidade de código boilerplate em comparação com Java, tornando o código mais limpo e fácil de ler e manter. 
+    2. O sistema de segurança contra null do Kotlin ajuda a prevenir erros comuns de nulidade, como NullPointerException, um problema conhecido no desenvolvimento em Java. 
+    3. Facilita a criação de classes que representam apenas dados com a palavra-chave data, gerando automaticamente métodos úteis. Classes sealed ajudam na modelagem de estados limitados, tornando o código mais seguro e coeso. 
+    4. Kotlin permite integrar-se diretamente com código Java, facilitando a migração gradual ou a adição de Kotlin em projetos Java existentes. 
+
+Desvantagens:
+
+    1. Embora o Kotlin tenha sido otimizado, em alguns casos ele ainda apresenta tempos de compilação mais lentos que o Java, especialmente em projetos grandes. 
+    2. Apesar de ser similar ao Java, Kotlin introduz conceitos e sintaxes que podem ser desafiadores para desenvolvedores que vêm de outras linguagens ou do próprio Java, como lambdas e programação funcional. 
+    3. A inclusão de bibliotecas padrão do Kotlin pode aumentar o tamanho dos arquivos APK (em Android) ou JAR, o que pode ser uma preocupação para aplicativos móveis que precisam ser leves. 
+    4. Embora Kotlin seja multiplataforma, muitas de suas características ainda dependem da JVM (Java Virtual Machine), o que pode limitar seu desempenho em outras plataformas ou exigir modificações específicas.
+     
 13 - R
 14 - MATLAB
 
+Conceito:
+MATLAB (Matrix Laboratory) é uma linguagem de programação e ambiente de desenvolvimento integrado (IDE) voltado principalmente para computação numérica, análise de dados, desenvolvimento de algoritmos e modelagem matemática. Foi criada para facilitar o processamento de matrizes e operações numéricas complexas, sendo amplamente utilizada em áreas como engenharia, física, economia, e ciência de dados, entre outras. MATLAB é uma linguagem de alto nível, de propósito geral, que combina funcionalidades de cálculo numérico, visualização de dados, e programação
+
+Para que serve: 
+Análise Numérica: Resolving problemas matemáticos envolvendo álgebra linear, cálculo numérico, otimização, estatísticas, etc.
+Desenvolvimento de Algoritmos: Permite criar, testar e otimizar algoritmos de maneira eficiente.
+Simulação e Modelagem: Usado para simular sistemas dinâmicos, circuitos, e modelos matemáticos de diversas áreas.
+Processamento de Sinais e Imagens: Ferramentas específicas para o processamento de sinais (audio, vídeo, etc.), além de processamento de imagens.
+Visualização de Dados: O MATLAB oferece gráficos 2D e 3D para visualização e interpretação de dados, o que é essencial em diversas áreas de pesquisa e engenharia.
+Interface com Hardware: É possível integrar o MATLAB com dispositivos de hardware, como sensores e atuadores, através de suas ferramentas específicas para automação e controle.
+
+Vantagens:
+Facilidade de uso: Sintaxe intuitiva e alto nível.
+Bibliotecas poderosas: Funcionalidades avançadas para cálculo numérico e simulação.
+Boa visualização de dados: Gráficos 2D/3D e recursos interativos.
+Integração com outras linguagens: Suporta C, C++, Java, Python, entre outras.
+
+Desvantagens: 
+Custo elevado: Licença paga.
+Desempenho limitado: Menos eficiente que C/C++ em tarefas de alta performance.
+Dependência de software proprietário: Restrições relacionadas a atualizações e flexibilidade.
+ 
