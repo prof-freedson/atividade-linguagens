@@ -14,6 +14,36 @@ Para cada linguagem, deve ser informados os seguintes itens: conceito, para que 
 5 - C
 6 - C++
 7 - TypeScript
+
+CONCEITO: O TypeScript é uma linguagem criada em cima do JS e permite que adicionemos 
+tipagem de dados em nossas variáveis, além de nos oferecer recursos avançados, 
+como a orientação a Objetos e padrões de projeto.
+Código TypeScript pode ser escrito em qualquer ambiente de desenvolvimento. 
+No entanto, para transformá-lo em JavaScript e aproveitar outros recursos úteis, 
+como checagem de erros, é necessário instalá-lo no computador via NPM (um gerenciador de pacotes JavaScript) ou 
+usar uma IDE com suporte nativo ao superconjunto, como o Visual Studio. 
+
+PRINCIPAIS VANTAGENS
+As principais vantagens do TypeScript em relação ao JavaScript “tradicional” é adicionar recursos importantes e úteis 
+para a construção de projetos em larga escala, como tipagem estática, forte e automática, orientação a objetos e 
+a possibilidade de descobrir e corrigir erros em tempo real durante o desenvolvimento.
+Apesar de ter sido criado pela Microsoft, o TypeScript é um projeto de código-aberto, com intensa participação da comunidade.
+
+PRINCIPAIS DESVANTAGENS
+
+Curva de aprendizado: O typescript é uma linguagem mais complexa do que o javascript, 
+o que significa que pode haver uma curva de aprendizado para os desenvolvedores 
+que não estão familiarizados com o typescript. Isso pode levar a uma diminuição temporária na produtividade.
+
+Menor flexibilidade: A tipagem estática pode fornecer segurança e confiabilidade, mas também pode limitar a flexibilidade do código. 
+Algumas vezes é necessário forçar o tipo de uma variável e pode ser complexo usar a tipagem de uma biblioteca em específico.
+
+Maior complexidade do código: Às vezes, o uso do typescript pode resultar em um código mais complexo e menos legível, 
+especialmente se a verificação de tipos e outros recursos avançados não forem usados adequadamente.
+
+Maior uso de memória: O typescript requer mais memória do que o javascript devido à necessidade de manter informações adicionais 
+sobre tipos de variáveis. Isso pode ser um problema em projetos com limitações de memória.
+
 8 - PHP
 9 - Swift
 10 - Ruby
@@ -21,3 +51,4 @@ Para cada linguagem, deve ser informados os seguintes itens: conceito, para que 
 12 - Kotlin
 13 - R
 14 - MATLAB
+
