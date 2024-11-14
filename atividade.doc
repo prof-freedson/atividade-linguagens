@@ -18,15 +18,7 @@ Para que serve - Permite que os desenvolvedores criem elementos como animações
 Vantagens -Torna sites dinâmicos e interativos, executa diretamente no navegador do usuário, sem depender de servidor, amplamente utilizado, com grande comunidade e várias bibliotecas e frameworks, funciona tanto no front-end quanto no back-end, com Node.js
 Desvantagens -Por rodar no cliente, pode ser vulnerável a ataques se mal utilizado; Diferenças de comportamento entre navegadores; Pode ser mais lento em operações complexas comparado a outras linguagens otimizadas para processamento.
 3 - Java
-4 - C#
-5 – C
-Conceito: A linguagem C é chamada de linguagem nível intermediária, pois combina os elementos das linguagens de alto nível com o funcionalismo da linguagem nível máquina.
-Para que ser: Com a linguagem C é possível ter controle exato de como um programa se comporta e dá acesso direto à partes do hardware, como o espaço na memória do computador.
-Vantagens: nos permite chegar mais perto do hardware do computador sem mexer com a linguagem Assembly (uma linguagem de baixo nível, voltada apenas à comunicação com a máquina).
-Desvantagens: Em geral, as rotinas geradas (em linguagem de máquina) são mais genéricas e, portanto, mais complexas e por isso são mais lentas e ocupam mais memória.
 
-
-    --Conteito--
 4 - C#(Ronaldo)
     
     Conteito:
@@ -73,7 +65,6 @@ Desvantagens: Em geral, as rotinas geradas (em linguagem de máquina) são mais 
     -Ambiente de desenvolvimento caro: Embora C# seja uma linguagem gratuita, o ambiente de desenvolvimento oficial da Microsoft, o Visual Studio, pode ser bastante caro.
 
     -Menor portabilidade: Como C# é uma linguagem da Microsoft, sua portabilidade para outras plataformas pode ser limitada.
-
 
 
 5 – C
