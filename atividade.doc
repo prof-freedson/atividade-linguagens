@@ -127,6 +127,26 @@ A falta de aplicativos de servidor para PHP é algo que desaponta, por isso algu
         Escalabilidade
         Menor Popularidade
 11 - Go
+Conceito:
+
+A linguagem de programação Go, também conhecida como Golang, é uma linguagem de código aberto desenvolvida pelo google lançada em novembro de 2009.É uma linguagem compilada e focada em produtividade e programação concorrente, baseada em trabalhos feitos no sistema operacional chamado Inferno.
+
+Para que serve:
+
+A linguagem Go é utilizada para desenvolver sistemas distribuídos e concorrentes, como servidores web, aplicações em nuvem, microsserviços, ferramentas de linha de comando, e programas de rede: 
+
+Vantagens:
+
+Go é muito eficaz na detecção de falhas de pré-compilação e até mesmo na prevenção de possíveis "desperdícios", tais como variáveis ou importações não utilizadas. Não há necessidade de usar as VMs.
+
+Desvantagens:
+
+Curva de aprendizado: Pode ser difícil para iniciantes, principalmente para quem não tem experiência com outras linguagens. 
+Ecossistema: Como é uma linguagem relativamente nova, pode ser difícil encontrar bibliotecas e ferramentas para algumas tarefas. 
+Gerenciamento de memória: O sistema de gerenciamento de memória automático pode causar problemas de desempenho em algumas situações. 
+Não é indicada para desenvolvimento orientado a objetos: Não existe o conceito de classes, nem herança, nem try/catch. 
+Menos adequada para projetos complicados: A falta de recursos pode torná-la menos adequada para projetos que exigem escalabilidade e flexibilidade. 
+
 12 - Kotlin
 13 - R
 14 - MATLAB
