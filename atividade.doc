@@ -12,7 +12,11 @@ Conceito -Python é uma linguagem de programação de alto nível,[10] interpret
 Para que serve -A linguagem foi projetada com a filosofia de enfatizar a importância do esforço do programador sobre o esforço computacional. Prioriza a legibilidade do código sobre a velocidade ou expressividade. Combina uma sintaxe concisa e clara com os recursos poderosos de sua biblioteca padrão e por módulos e frameworks desenvolvidos por terceiros.
 Vantagens -Sintaxe Simples e Legível, Ampla Gama de Frameworks, Rica Biblioteca Padrão e Comunidade Ativa.
 Desvantagens -Desempenho Relativo, Overhead de Memória, Dependência de Terceiros e Curva de Aprendizado Inicial
-2 - JavaScript
+2 - JavaScript(Dayane)
+Conceito -JavaScript é uma linguagem de programação usada principalmente para adicionar interatividade e funcionalidades dinâmicas a sites e aplicativos web
+Para que serve - Permite que os desenvolvedores criem elementos como animações, validações de formulário, atualização de conteúdo sem recarregar a página, e muito mais, tornando a experiência do usuário mais rica e interativa.
+Vantagens -Torna sites dinâmicos e interativos, executa diretamente no navegador do usuário, sem depender de servidor, amplamente utilizado, com grande comunidade e várias bibliotecas e frameworks, funciona tanto no front-end quanto no back-end, com Node.js
+Desvantagens -Por rodar no cliente, pode ser vulnerável a ataques se mal utilizado; Diferenças de comportamento entre navegadores; Pode ser mais lento em operações complexas comparado a outras linguagens otimizadas para processamento.
 3 - Java
 <<<<<<< HEAD
 4 - C#(Ronaldo)
@@ -123,6 +127,26 @@ A falta de aplicativos de servidor para PHP é algo que desaponta, por isso algu
         Escalabilidade
         Menor Popularidade
 11 - Go
+Conceito:
+
+A linguagem de programação Go, também conhecida como Golang, é uma linguagem de código aberto desenvolvida pelo google lançada em novembro de 2009.É uma linguagem compilada e focada em produtividade e programação concorrente, baseada em trabalhos feitos no sistema operacional chamado Inferno.
+
+Para que serve:
+
+A linguagem Go é utilizada para desenvolver sistemas distribuídos e concorrentes, como servidores web, aplicações em nuvem, microsserviços, ferramentas de linha de comando, e programas de rede.
+
+Vantagens:
+
+Go é muito eficaz na detecção de falhas de pré-compilação e até mesmo na prevenção de possíveis "desperdícios", tais como variáveis ou importações não utilizadas. Não há necessidade de usar as VMs.
+
+Desvantagens:
+
+Curva de aprendizado: Pode ser difícil para iniciantes, principalmente para quem não tem experiência com outras linguagens. 
+Ecossistema: Como é uma linguagem relativamente nova, pode ser difícil encontrar bibliotecas e ferramentas para algumas tarefas. 
+Gerenciamento de memória: O sistema de gerenciamento de memória automático pode causar problemas de desempenho em algumas situações. 
+Não é indicada para desenvolvimento orientado a objetos: Não existe o conceito de classes, nem herança, nem try/catch. 
+Menos adequada para projetos complicados: A falta de recursos pode torná-la menos adequada para projetos que exigem escalabilidade e flexibilidade. 
+
 12 - Kotlin
 
 Conceito: 
