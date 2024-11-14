@@ -14,7 +14,17 @@ Vantagens -Sintaxe Simples e Legível, Ampla Gama de Frameworks, Rica Biblioteca
 Desvantagens -Desempenho Relativo, Overhead de Memória, Dependência de Terceiros e Curva de Aprendizado Inicial
 2 - JavaScript
 3 - Java
+<<<<<<< HEAD
 4 - C#(Ronaldo)
+=======
+4 - C#
+5 – C
+Conceito: A linguagem C é chamada de linguagem nível intermediária, pois combina os elementos das linguagens de alto nível com o funcionalismo da linguagem nível máquina.
+Para que ser: Com a linguagem C é possível ter controle exato de como um programa se comporta e dá acesso direto à partes do hardware, como o espaço na memória do computador.
+Vantagens: nos permite chegar mais perto do hardware do computador sem mexer com a linguagem Assembly (uma linguagem de baixo nível, voltada apenas à comunicação com a máquina).
+Desvantagens: Em geral, as rotinas geradas (em linguagem de máquina) são mais genéricas e, portanto, mais complexas e por isso são mais lentas e ocupam mais memória.
+
+>>>>>>> 1b312df1b75e34fa8bcbd81865642a4028298547
 
     --Conteito--
 
@@ -98,3 +108,26 @@ Desvantagens -Desempenho Relativo, Overhead de Memória, Dependência de Terceir
 12 - Kotlin
 13 - R
 14 - MATLAB
+
+Conceito:
+MATLAB (Matrix Laboratory) é uma linguagem de programação e ambiente de desenvolvimento integrado (IDE) voltado principalmente para computação numérica, análise de dados, desenvolvimento de algoritmos e modelagem matemática. Foi criada para facilitar o processamento de matrizes e operações numéricas complexas, sendo amplamente utilizada em áreas como engenharia, física, economia, e ciência de dados, entre outras. MATLAB é uma linguagem de alto nível, de propósito geral, que combina funcionalidades de cálculo numérico, visualização de dados, e programação
+
+Para que serve: 
+Análise Numérica: Resolving problemas matemáticos envolvendo álgebra linear, cálculo numérico, otimização, estatísticas, etc.
+Desenvolvimento de Algoritmos: Permite criar, testar e otimizar algoritmos de maneira eficiente.
+Simulação e Modelagem: Usado para simular sistemas dinâmicos, circuitos, e modelos matemáticos de diversas áreas.
+Processamento de Sinais e Imagens: Ferramentas específicas para o processamento de sinais (audio, vídeo, etc.), além de processamento de imagens.
+Visualização de Dados: O MATLAB oferece gráficos 2D e 3D para visualização e interpretação de dados, o que é essencial em diversas áreas de pesquisa e engenharia.
+Interface com Hardware: É possível integrar o MATLAB com dispositivos de hardware, como sensores e atuadores, através de suas ferramentas específicas para automação e controle.
+
+Vantagens:
+Facilidade de uso: Sintaxe intuitiva e alto nível.
+Bibliotecas poderosas: Funcionalidades avançadas para cálculo numérico e simulação.
+Boa visualização de dados: Gráficos 2D/3D e recursos interativos.
+Integração com outras linguagens: Suporta C, C++, Java, Python, entre outras.
+
+Desvantagens: 
+Custo elevado: Licença paga.
+Desempenho limitado: Menos eficiente que C/C++ em tarefas de alta performance.
+Dependência de software proprietário: Restrições relacionadas a atualizações e flexibilidade.
+ 
