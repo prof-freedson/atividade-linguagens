@@ -7,10 +7,66 @@ OBJETIVO: citar informações sobre as linguagens sorteadas para cada membro da 
 
 Para cada linguagem, deve ser informados os seguintes itens: conceito, para que serve, vantagens e desvantagens.
 
-1 - Python
+1 - Python(Matheus Lemos)
+Conceito -Python é uma linguagem de programação de alto nível,[10] interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Foi lançada por Guido van Rossum em 1991
+Para que serve -A linguagem foi projetada com a filosofia de enfatizar a importância do esforço do programador sobre o esforço computacional. Prioriza a legibilidade do código sobre a velocidade ou expressividade. Combina uma sintaxe concisa e clara com os recursos poderosos de sua biblioteca padrão e por módulos e frameworks desenvolvidos por terceiros.
+Vantagens -Sintaxe Simples e Legível, Ampla Gama de Frameworks, Rica Biblioteca Padrão e Comunidade Ativa.
+Desvantagens -Desempenho Relativo, Overhead de Memória, Dependência de Terceiros e Curva de Aprendizado Inicial
 2 - JavaScript
 3 - Java
 4 - C#
+5 – C
+Conceito: A linguagem C é chamada de linguagem nível intermediária, pois combina os elementos das linguagens de alto nível com o funcionalismo da linguagem nível máquina.
+Para que ser: Com a linguagem C é possível ter controle exato de como um programa se comporta e dá acesso direto à partes do hardware, como o espaço na memória do computador.
+Vantagens: nos permite chegar mais perto do hardware do computador sem mexer com a linguagem Assembly (uma linguagem de baixo nível, voltada apenas à comunicação com a máquina).
+Desvantagens: Em geral, as rotinas geradas (em linguagem de máquina) são mais genéricas e, portanto, mais complexas e por isso são mais lentas e ocupam mais memória.
+
+
+Conteito: 
+
+*A linguagem C# (lê-se “cêsharp”) foi criada juntamente com a arquitetura da plataforma .NET da Microsoft. Construída do zero, 
+sem se preocupar com compatibilidade de código legado, e a maioria das classes do framework .NET foram escritas com essa linguagem. Vários desenvolvedores
+ participaram do projeto de criação da linguagem, mas o principal envolvido no projeto foi o engenheiro Anders Hejlsberg, que além do C# foi criador do Turbo Pascal e do Delphi.
+
+O nome C# fez com que muitas pessoas pensassem que a cerquilha (#) seria uma sobreposição de quatro símbolos de adição, dando assim a entender que poderia ser um C++++, 
+mas na verdade o símbolo # se refere ao sinal musical de sustenido (#), que indica meio tom acima de uma determinada nota musical. Possui uma sintaxe expressiva, elegante 
+e é totalmente orientada a objetos.
+
+*Para que serve:
+
+A linguagem C# é usada para desenvolver aplicações de diversos tipos, como:
+
+-Aplicativos para computadores
+-Aplicativos e serviços da web
+-Aplicativos da Microsoft
+-Jogos
+-Sistemas web
+-Aplicativos embarcados
+-Aplicativos de área de trabalho
+-Aplicativos mobile
+
+*A linguagem C# tem várias vantagens e desvantagens, incluindo: 
+
+Vantagens:
+
+Orientação a objetos: O C# permite a criação de classes, objetos e interfaces, além de aplicar conceitos como herança, polimorfismo e encapsulamento. 
+
+Segurança de tipos: O C# é fortemente tipado. 
+
+Exceções: Os aplicativos C# usam exceções para relatar e tratar erros. 
+
+Maturidade: O C# é considerado uma linguagem madura, ou seja, que já passou por vários testes e validações de programadores de todo o mundo.
+
+Usos: A C# é usada para o desenvolvimento de aplicativos da Web, desenvolvimento de jogos, aplicativos de fluxo de trabalho e serviços do Windows. 
+
+Desvantagens:
+
+Desvantagens do C#
+
+-Ambiente de desenvolvimento caro: Embora C# seja uma linguagem gratuita, o ambiente de desenvolvimento oficial da Microsoft, o Visual Studio, pode ser bastante caro.
+
+-Menor portabilidade: Como C# é uma linguagem da Microsoft, sua portabilidade para outras plataformas pode ser limitada.
+
 5 - C
 6 - C++
 7 - TypeScript
@@ -35,7 +91,57 @@ A falta de aplicativos de servidor para PHP é algo que desaponta, por isso algu
 
 9 - Swift
 10 - Ruby
+<=> CONCEITO <=>
+    Ruby é uma linguagem de programação multiplataforma, de código aberto e multiparadigma, utilizada para criar softwares e funcionalidades no desenvolvimento web. Ela se destaca pela sua facilidade de entendimento e aplicação, sendo uma das linguagens mais recomendadas para quem está começando a aprender programação. 
+
+<=> PARA QUE SERVE <=>
+
+ Ruby pode ser usado para diversas finalidades, como:
+
+    1. Desenvolvimento Web: Ruby é mais famoso pelo framework Ruby on Rails, que é amplamente utilizado para o desenvolvimento de aplicações web. Rails acelera a criação de aplicativos, oferecendo convenções que tornam o desenvolvimento mais rápido e organizado.
+
+    2. Automação e Scripts: Ruby é muito útil para escrever scripts e automações, devido à sua sintaxe limpa e à facilidade de trabalhar com arquivos, redes e sistemas operacionais.
+
+    3. Desenvolvimento de Software: Embora seja mais conhecida no desenvolvimento web, Ruby também pode ser usada em outras áreas como desktop, aplicativos de rede e até para criação de jogos.
+    
+    4. Testes de Software: Ruby tem suporte amplo a ferramentas de teste, como o framework RSpec, que facilita o desenvolvimento orientado a testes (TDD).
+
+<=> VANTAGENS E DESVATAGENS <=>
+    Vantagens de Ruby
+        Sintaxe Simples
+        Alta Produtividade
+        Orientação a Objetos
+        Comunidade Ativa
+        Flexibilidade
+    Desvantagens de Ruby
+        Desempenho
+        Curva de Aprendizado
+        Escalabilidade
+        Menor Popularidade
 11 - Go
 12 - Kotlin
 13 - R
 14 - MATLAB
+
+Conceito:
+MATLAB (Matrix Laboratory) é uma linguagem de programação e ambiente de desenvolvimento integrado (IDE) voltado principalmente para computação numérica, análise de dados, desenvolvimento de algoritmos e modelagem matemática. Foi criada para facilitar o processamento de matrizes e operações numéricas complexas, sendo amplamente utilizada em áreas como engenharia, física, economia, e ciência de dados, entre outras. MATLAB é uma linguagem de alto nível, de propósito geral, que combina funcionalidades de cálculo numérico, visualização de dados, e programação
+
+Para que serve: 
+Análise Numérica: Resolving problemas matemáticos envolvendo álgebra linear, cálculo numérico, otimização, estatísticas, etc.
+Desenvolvimento de Algoritmos: Permite criar, testar e otimizar algoritmos de maneira eficiente.
+Simulação e Modelagem: Usado para simular sistemas dinâmicos, circuitos, e modelos matemáticos de diversas áreas.
+Processamento de Sinais e Imagens: Ferramentas específicas para o processamento de sinais (audio, vídeo, etc.), além de processamento de imagens.
+Visualização de Dados: O MATLAB oferece gráficos 2D e 3D para visualização e interpretação de dados, o que é essencial em diversas áreas de pesquisa e engenharia.
+Interface com Hardware: É possível integrar o MATLAB com dispositivos de hardware, como sensores e atuadores, através de suas ferramentas específicas para automação e controle.
+
+Vantagens:
+Facilidade de uso: Sintaxe intuitiva e alto nível.
+Bibliotecas poderosas: Funcionalidades avançadas para cálculo numérico e simulação.
+Boa visualização de dados: Gráficos 2D/3D e recursos interativos.
+Integração com outras linguagens: Suporta C, C++, Java, Python, entre outras.
+
+Desvantagens: 
+Custo elevado: Licença paga.
+Desempenho limitado: Menos eficiente que C/C++ em tarefas de alta performance.
+Dependência de software proprietário: Restrições relacionadas a atualizações e flexibilidade.
+ 
