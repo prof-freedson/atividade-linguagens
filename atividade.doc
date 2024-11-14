@@ -75,6 +75,24 @@ Desvantagens: Em geral, as rotinas geradas (em linguagem de máquina) são mais 
 6 - C++
 7 - TypeScript
 8 - PHP
+CONCEITOS: é uma linguagem de programação de codígo aberto, direcionada ao desenvolvimento de aplicações para web e criação de site,
+no qual favorece a conexão entre a interface do usuário e o servidor. 
+
+Para que serve: O PHP é uma linguagem de programação usada principalmente para desenvolver sites e aplicações web dinâmicas. Ela permite gerar conteúdo dinâmico, interagir com bancos de dados, processar formulários, gerenciar sessões e cookies, e integrar com outros serviços. É amplamente usada em plataformas como WordPress, Drupal e Joomla, e continua popular devido à sua simplicidade e flexibilidade no desenvolvimento de sistemas web.
+
+Vantagens e Desvantagens: Vantagens
+O PHP é muito versátil e funciona em qualquer plataforma, rodando em diversos sistemas operacionais;
+Aprendizado facíl apos entender o que é o PHP e sua função;
+O PHP é uma linguagem de codígo aberto e com melhrorias constantes
+É compativel com diversos bancos de dados: Sybase, Interbase, Oracle, SQLite, MySQL;
+Multiplataforma, funcionaem varios sistemas operacionais sendo eles: Windows e Linux, além dos Mac OS, AS/400, Risc OS, FreeBSD, entre outros. 
+
+Desvantagens
+Suporte a Datas; 
+Documentação incompleta, Os documentos demoram para serem adicionados no site oficial, as novas funções são feitas e depois divulgadas;
+Não há uma padronização entre as suas versões, nem todos os comandos funcionam da mesma forma;
+A falta de aplicativos de servidor para PHP é algo que desaponta, por isso alguns preferem utilizar o Java.
+
 9 - Swift
 10 - Ruby
 <=> CONCEITO <=>
