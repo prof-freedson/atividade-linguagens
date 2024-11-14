@@ -11,7 +11,12 @@ Para cada linguagem, deve ser informados os seguintes itens: conceito, para que 
 2 - JavaScript
 3 - Java
 4 - C#
-5 - C
+5 – C
+Conceito: A linguagem C é chamada de linguagem nível intermediária, pois combina os elementos das linguagens de alto nível com o funcionalismo da linguagem nível máquina.
+Para que ser: Com a linguagem C é possível ter controle exato de como um programa se comporta e dá acesso direto à partes do hardware, como o espaço na memória do computador.
+Vantagens: nos permite chegar mais perto do hardware do computador sem mexer com a linguagem Assembly (uma linguagem de baixo nível, voltada apenas à comunicação com a máquina).
+Desvantagens: Em geral, as rotinas geradas (em linguagem de máquina) são mais genéricas e, portanto, mais complexas e por isso são mais lentas e ocupam mais memória.
+
 6 - C++
 7 - TypeScript
 8 - PHP
