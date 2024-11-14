@@ -124,6 +124,29 @@ A falta de aplicativos de servidor para PHP é algo que desaponta, por isso algu
         Menor Popularidade
 11 - Go
 12 - Kotlin
+
+Conceito: 
+
+Kotlin é uma linguagem de programação moderna, desenvolvida pela JetBrains, que combina características de orientação a objetos e programação funcional. Ela foi criada para interoperar totalmente com o Java, tornando-se uma opção popular para o desenvolvimento Android, onde foi oficializada como linguagem de primeira classe pelo Google em 2017. 
+
+Para que serve?
+ 
+É usada para desenvolvimento Android, back-end, desenvolvimento de aplicações desktop e, mais recentemente, até mesmo para front-end web com Kotlin/JS, tornando-se uma linguagem versátil e poderosa no ecossistema de desenvolvimento moderno. 
+
+Vantagens:
+
+    1. Kotlin reduz a quantidade de código boilerplate em comparação com Java, tornando o código mais limpo e fácil de ler e manter. 
+    2. O sistema de segurança contra null do Kotlin ajuda a prevenir erros comuns de nulidade, como NullPointerException, um problema conhecido no desenvolvimento em Java. 
+    3. Facilita a criação de classes que representam apenas dados com a palavra-chave data, gerando automaticamente métodos úteis. Classes sealed ajudam na modelagem de estados limitados, tornando o código mais seguro e coeso. 
+    4. Kotlin permite integrar-se diretamente com código Java, facilitando a migração gradual ou a adição de Kotlin em projetos Java existentes. 
+
+Desvantagens:
+
+    1. Embora o Kotlin tenha sido otimizado, em alguns casos ele ainda apresenta tempos de compilação mais lentos que o Java, especialmente em projetos grandes. 
+    2. Apesar de ser similar ao Java, Kotlin introduz conceitos e sintaxes que podem ser desafiadores para desenvolvedores que vêm de outras linguagens ou do próprio Java, como lambdas e programação funcional. 
+    3. A inclusão de bibliotecas padrão do Kotlin pode aumentar o tamanho dos arquivos APK (em Android) ou JAR, o que pode ser uma preocupação para aplicativos móveis que precisam ser leves. 
+    4. Embora Kotlin seja multiplataforma, muitas de suas características ainda dependem da JVM (Java Virtual Machine), o que pode limitar seu desempenho em outras plataformas ou exigir modificações específicas.
+     
 13 - R
 14 - MATLAB
 
